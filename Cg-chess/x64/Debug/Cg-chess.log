@@ -1,0 +1,121 @@
+﻿  Source.cpp
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(646,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(816,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(824,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(832,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(840,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(848,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(856,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(865,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(873,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(881,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(954,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(955,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1135,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1146,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1154,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1162,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1235,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1431,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1512,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1514,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1534,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1544,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1552,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1573,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1575,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(1838,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(5436,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(5444,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(5455,18): warning C4309: 'argument': truncation of constant value
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6715,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6734,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6747,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6750,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6758,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6776,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6791,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6806,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6821,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6836,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6856,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6870,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6883,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6896,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6909,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6928,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6941,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6954,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6967,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(6980,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(7000,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(7013,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(7026,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(7039,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(7052,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8449,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8464,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8479,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8494,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8509,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8529,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8543,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8556,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8569,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8582,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8601,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8614,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8627,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8640,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8653,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8673,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8686,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8699,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8712,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(8725,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11748,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11763,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11778,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11793,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11808,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11917,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11932,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11947,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11962,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(11977,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12080,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12095,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12110,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12125,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12140,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12244,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12259,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12274,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12289,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12304,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12410,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12425,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12440,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12455,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12470,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12645,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12660,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12675,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12690,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12705,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12804,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12819,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12834,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12849,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12864,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12967,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12982,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(12997,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(13012,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(13027,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(13126,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(13141,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(13156,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(13171,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\musta\source\repos\Cg-chess\Cg-chess\Source.cpp(13186,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Cg-chess.vcxproj -> C:\Users\musta\source\repos\Cg-chess\x64\Debug\Cg-chess.exe
